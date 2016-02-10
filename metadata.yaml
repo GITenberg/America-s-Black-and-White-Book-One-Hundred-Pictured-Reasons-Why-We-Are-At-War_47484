@@ -1,0 +1,25 @@
+_repo: America-s-Black-and-White-Book-One-Hundred-Pictured-Reasons-Why-We-Are-At-War_47484
+creator:
+  author:
+    agent_name: Rogers, W. A. (William Allen)
+    alias: Rogers, William Allen
+    birthdate: 1854
+    deathdate: 1931
+    gutenberg_agent_id: '32413'
+    url: http://www.gutenberg.org/2009/agents/32413
+description: ''
+gutenberg_issued: '2014-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47484'
+  lccn: '18003565'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Humor, caricatures, etc.'
+- !lcc 'D501'
+title: 'America''s Black and White Book: One Hundred Pictured Reasons Why We Are At
+  War'
+url: http://www.gutenberg.org/ebooks/47484
