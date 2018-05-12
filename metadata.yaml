@@ -1,4 +1,8 @@
 _repo: America-s-Black-and-White-Book-One-Hundred-Pictured-Reasons-Why-We-Are-At-War_47484
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47484-h/images/cover.jpg
 creator:
   author:
     agent_name: Rogers, W. A. (William Allen)
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '32413'
     url: http://www.gutenberg.org/2009/agents/32413
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47484#America-s-Black-and-White-Book-One-Hundred-Pictured-Reasons-Why-We-Are-At-War
 gutenberg_issued: '2014-11-29'
 gutenberg_type: Text
 identifiers:
